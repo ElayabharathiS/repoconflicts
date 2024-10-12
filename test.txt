@@ -1,1 +1,3 @@
-Hi new1 file for conflict repo
+
+Hi old file for conflict repo
+
